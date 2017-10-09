@@ -69,7 +69,7 @@ h4 {
 }
 .panel {
     border: 1px solid #f4511e;
-    border-radius:0 !important;
+    border-radius:0 ;
     transition: box-shadow 0.5s;
 }
 .panel:hover {
@@ -77,12 +77,12 @@ h4 {
 }
 .panel-footer .btn:hover {
     border: 1px solid #f4511e;
-    background-color: #fff !important;
+    background-color: #fff ;
     color: #f4511e;
 }
 .panel-heading {
-    color: #fff !important;
-    background-color: #f4511e !important;
+    color: #fff ;
+    background-color: #f4511e ;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -91,7 +91,7 @@ h4 {
     border-bottom-right-radius: 0px;
 }
 .panel-footer {
-    background-color: white !important;
+    background-color: white ;
 }
 .panel-footer h3 {
     font-size: 32px;
@@ -110,22 +110,22 @@ h4 {
     background-color: #f4511e;
     z-index: 9999;
     border: 0;
-    font-size: 12px !important;
-    line-height: 1.42857143 !important;
+    font-size: 12px ;
+    line-height: 1.42857143 ;
     letter-spacing: 4px;
     border-radius: 0;
     font-family: Montserrat, sans-serif;
 }
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #fff ;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #f4511e !important;
-    background-color: #fff !important;
+    color: #f4511e ;
+    background-color: #fff ;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: #fff !important;
+    color: #fff ;
 }
 footer .glyphicon {
     font-size: 20px;
