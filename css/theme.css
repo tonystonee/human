@@ -30,13 +30,7 @@
 .navbar-nav li.theme-plum a {
   color: white; }
 
-.carousel-control.left, .carousel-control.right {
-  color: #4E8416; }
-
-.carousel-indicators li {
-  border-color: #4E8416; }
-  .carousel-indicators li.active {
-    background: #4E8416; }
-
-#contact ul {
-  list-style-type: none; }
+.page {
+  padding-top: 50px; }
+  .page img {
+    max-width: 100%; }

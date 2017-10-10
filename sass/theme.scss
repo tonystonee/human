@@ -23,19 +23,9 @@ $humana-faded-green: #E8F4DC;
 .navbar-nav li.theme-plum a{
   color:white;
 }
-
-.carousel-control.left, .carousel-control.right{
-  color:$humana-dark-green;
-}
-.carousel-indicators li{
-  &.active{
-    background: $humana-dark-green;
-  }
-  border-color: $humana-dark-green;
-}
-
-#contact{
-  ul{
-    list-style-type: none;
+.page{
+  padding-top:50px;
+  img{
+    max-width: 100%;
   }
 }
